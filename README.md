@@ -13,7 +13,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="https://lazar-rakic.pages.dev">
 <strong>Visit my personal website </strong>
 <br />
 <br />
