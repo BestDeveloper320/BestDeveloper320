@@ -48,17 +48,12 @@
 
 <!-- Footer -->
 
-<div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.comBestDeveloper320/BestDeveloper320/master/images/marquee.svg" />
-<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
 
 
 <img src="https://raw.githubusercontent.com/BestDeveloper320/BestDeveloper320/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
